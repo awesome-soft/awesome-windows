@@ -19,7 +19,6 @@ A curated list of awesome software for Windows.
     - [Email](#email)
     - [FTP](#ftp)
     - [PDF](#pdf)
-    - [Block Chain](#block-chain)
     - [Virtualization](#virtualization)
     - [VCS](#vcs)
     - [Api Managemant](#api-managemant)
@@ -106,9 +105,6 @@ A curated list of awesome software for Windows.
 
 ## PDF
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Free PDF Reader & PDF Viewer.
-
-## Block Chain
-* [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
 
 ## Virtualization
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
