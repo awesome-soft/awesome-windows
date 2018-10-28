@@ -146,5 +146,5 @@ A curated list of awesome software for Windows.
 ## Others
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [Cygwin](https://www.cygwin.com/) - Cygwin is a Unix-like environment and command-line interface for Microsoft Windows.
-* [BestTrace](https://www.ipip.net/download.html) - Route tracking tool.
+* [BestTrace](https://www.ipip.net/download.html) - Route tracking tool by IPIP.net.
 
