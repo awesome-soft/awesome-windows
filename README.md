@@ -141,6 +141,7 @@ A curated list of awesome software for Windows.
 ## Fun
 * [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
 * [Foobar2000](https://www.foobar2000.org/) - View more screenshots foobar2000 is an advanced freeware audio player for the Windows platform.
+* [PotPlayer](https://potplayer.daum.net/) - PotPlayer is a multimedia software player developed for the Microsoft Windows operating system by South Korean Internet company Kakao (formerly Daum Communications).
 
 ## Others
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
