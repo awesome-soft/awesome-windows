@@ -26,6 +26,7 @@ A curated list of awesome software for Windows.
     - [Security](#security)
     - [Proxy & VPN](#proxy--vpn)
     - [Downloader](#downloader)
+    - [Fun](#fun)
     - [Others](#others)
 
 
@@ -136,6 +137,9 @@ A curated list of awesome software for Windows.
 
 ## Downloader
 * [Internet Download Manager](https://www.internetdownloadmanager.com/) - (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.
+
+## Fun
+* [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
 
 ## Others
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
