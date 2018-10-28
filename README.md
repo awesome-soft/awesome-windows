@@ -25,6 +25,7 @@ A curated list of awesome software for Windows.
     - [Productivity](#productivity)
     - [Security](#security)
     - [Proxy & VPN](#proxy--vpn)
+    - [Downloader](#downloader)
     - [Others](#others)
 
 
@@ -132,6 +133,9 @@ A curated list of awesome software for Windows.
 ## Proxy & VPN
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+
+## Downloader
+* [Internet Download Manager](https://www.internetdownloadmanager.com/) - (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.
 
 ## Others
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
