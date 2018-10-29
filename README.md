@@ -58,6 +58,7 @@ A curated list of awesome software for Windows.
 ## Note
 * [Evernote](https://evernote.com/) - Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.
 * [YouDao Cloud Note](https://note.youdao.com/) - A great note-taking app.
+* [Microsoft Clode oneNote](https://products.office.com/en-us/onenote/digital-note-taking-app) - Your digital notebook.
 
 ## ToDo
 * [2Do](http://www.2doapp.com/) - Nice todo app.
