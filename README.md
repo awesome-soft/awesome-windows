@@ -69,7 +69,7 @@ A curated list of awesome software for Windows.
 * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management, Open Source, built using Electron and Angular JS.
-* [redis Manager](https://redisdesktop.com/download) - Redis Desktop Manager.
+* [Redis Manager](https://redisdesktop.com/download) - Redis Desktop Manager.
 
 ## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
