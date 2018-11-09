@@ -52,7 +52,7 @@ A curated list of awesome software for Windows.
 * [Putty](https://www.putty.org/) - A free SSH and telnet client for Windows.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
 * [Xshell](https://www.netsarang.com/download/software.html) - Xshell is a powerful SSH1, SSH2, SFTP, TELNET, RLOGIN and SERIAL terminal emulator for Windows platforms.
-* [Cmder] (http://cmder.net/) - Portable console emulator for Windows.
+* [Cmder](http://cmder.net/) - Portable console emulator for Windows.
 
 ## Note
 * [Evernote](https://evernote.com/) - Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.
@@ -67,7 +67,7 @@ A curated list of awesome software for Windows.
 * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management, Open Source, built using Electron and Angular JS.
-* [redis Manager] (https://redisdesktop.com/download) - Redis Desktop Manager.
+* [redis Manager](https://redisdesktop.com/download) - Redis Desktop Manager.
 
 ## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
