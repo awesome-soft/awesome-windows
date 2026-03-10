@@ -128,6 +128,7 @@ A curated list of awesome software for Windows.
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
 
 ## Productivity 
+* [InputTranslator](https://www.inputtranslator.com) - A desktop typing translator that translates any input field with a global hotkey. AI-powered with scene modes.
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
 
 ## Security
