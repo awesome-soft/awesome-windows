@@ -110,6 +110,7 @@ A curated list of awesome software for Windows.
 
 ## PDF
 * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Free PDF Reader & PDF Viewer.
+* [Instafill.ai](https://instafill.ai) - AI-powered PDF form filler. Auto-completes any PDF form by extracting fields and filling from saved profiles, uploaded files, or supplied data.
 
 ## Virtualization
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
