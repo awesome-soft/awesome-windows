@@ -147,6 +147,7 @@ A curated list of awesome software for Windows.
 * [PotPlayer](https://potplayer.daum.net/) - PotPlayer is a multimedia software player developed for the Microsoft Windows operating system by South Korean Internet company Kakao (formerly Daum Communications).
 
 ## Others
+* [ZRC 工具箱](https://github.com/zhouruichen2015-pixel/ZRC-Toolkit) - 🧰 80+款便携式Windows系统工具合集，含硬件检测、CPU/GPU/内存测试、磁盘管理、网络诊断等，免安装即用。
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [Cygwin](https://www.cygwin.com/) - Cygwin is a Unix-like environment and command-line interface for Microsoft Windows.
 * [BestTrace](https://www.ipip.net/download.html) - Route tracking tool by IPIP.net.
