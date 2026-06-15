@@ -129,6 +129,7 @@ A curated list of awesome software for Windows.
 
 ## Productivity 
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Vakh](https://github.com/arbharadwaj/Vakh) — Local speech-to-text that types into any Windows app. Offline, privacy-first, powered by Whisper AI. Free & Open Source.
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
