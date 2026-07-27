@@ -140,6 +140,7 @@ A curated list of awesome software for Windows.
 
 ## Downloader
 * [Internet Download Manager](https://www.internetdownloadmanager.com/) - (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.
+* [FluxDown](https://fluxdown.zerx.dev) - Free and open-source multi-protocol download manager with IDM-style dynamic segmentation, supports HTTP/FTP/BitTorrent/eD2K/HLS/DASH.
 
 ## Fun
 * [Steam](http://store.steampowered.com/) - Gaming store, which opens the gates to many games.
