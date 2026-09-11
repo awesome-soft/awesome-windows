@@ -129,6 +129,7 @@ A curated list of awesome software for Windows.
 
 ## Productivity 
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Orkas](https://orkas.ai/?source=gh_awwin) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
