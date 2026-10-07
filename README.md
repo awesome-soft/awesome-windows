@@ -129,6 +129,7 @@ A curated list of awesome software for Windows.
 
 ## Productivity 
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Awayra](https://github.com/AWAYRA/AWAYRA-WPF) - Free, offline Windows eye-rest and movement reminders with separate adjustable schedules, work hours, idle reset and snooze.
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
