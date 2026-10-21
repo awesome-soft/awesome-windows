@@ -70,6 +70,7 @@ A curated list of awesome software for Windows.
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management, Open Source, built using Electron and Angular JS.
 * [Redis Manager](https://redisdesktop.com/download) - Redis Desktop Manager.
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern and easy to use database manager for MySQL, PostgreSQL, SQLite, SQL Server and more, with a free open source edition.
 
 ## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
