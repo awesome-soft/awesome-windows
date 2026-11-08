@@ -129,6 +129,7 @@ A curated list of awesome software for Windows.
 
 ## Productivity 
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Opens apps, browser profiles, and URLs in chosen display layouts using a configurable hold shortcut (Windows 11 preview).
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
